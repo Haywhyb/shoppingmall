@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#maincontainer{
+    background-image: url(../jsassignment29th/images/4454.jpg);
+    background-size: cover;
+    height: 700px;
+}
+
+#body{
+    height: 70px;
+    text-align: center;
+    display: flex;
+}
+
+#logo img{
+    float: left;
+    width: 200px;
+}
+#shop{
+    font-family: sans-serif;
+    color: darkorchid;
+    float: right;
+    margin: -135px 15px;
+}
+
+#one{
+    
+    margin-top: 20px;
+}
+#menu{
+    padding-left: 300px;
+    margin-top: 30px;
+}
+#two{
+    flex: 1;
+    margin-top: 30px;
+}
+
+#menu nav ul{    
+    margin-top: 5px;
+}
+
+#menu nav ul li{
+    font-family:  sans-serif;
+    font-size: small;
+    font-weight: bold;
+    display: inline;
+    list-style-type: none;
+    color: #666;
+    padding: 15px;
+}
+
+#part1{
+    font-family: sans-serif;
+    margin: 150px 100px;
+}
+
+#headbtn{
+    width: 150px;
+    height: 40px;
+    color: white;
+    background-color: indigo;
+    border: none;
+    border-radius: 5px;
+}
+
+#head{
+    font-size: small;
+}
+#headbody{
+    font-size: 40px;
+    margin-top: 10px;
+    line-height: 40px;
+}
+#headparagraph{
+    font-size: small;
+    margin: 15px 0px 30px;
+}
+
+#btn_one{
+    width: 100px;
+    height: 30px;
+    color: darkorchid;
+    font-size: 12px;
+    background-color: transparent;
+    border: solid 1px darkorchid;
+    border-radius: 15px;
+    margin-left: 200px;
+}
+#heart{
+    color: darkorchid;
+}
+#cart{
+     color: darkorchid;
+    margin-left: 10px;
+}
